@@ -6,7 +6,7 @@
 
 
 
-- :classical_building: Undergraduate student of Beijing Institute of Technology, majoring in **Computer Science and Technology**
+- :classical_building: Undergraduate student of BIT, majoring in **Computer Science and Technology**
 - 🔭 I’m currently working **Cyber Security**
 - :star2: Personal Website: https://xiabee.cn
 
