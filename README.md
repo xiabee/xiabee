@@ -13,4 +13,4 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiabee&hide=css&langs_count=8&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiabee&hide=css&langs_count=8&theme=radical" style="zoom: 67%;" />
