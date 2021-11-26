@@ -2,16 +2,13 @@
 
 
 
-
-
 <p align=center>
   <a href="https://blog.xiabee.cn">
     <img align=left href="https://blog.xiabee.cn" src="https://img.shields.io/badge/cs-notes-blue">
   </a>
   Be All You Can Be.
   <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=xiabee.xiabee" alt="visitors"></p> 
-
-<img align="right" width="50%" src="https://tva1.sinaimg.cn/mw690/0084b03xgy1gwsn7sf4k3j309m09l0u9.jpg" style="zoom: 50%;" />
+<img align="right" width="50%" src="https://tva1.sinaimg.cn/mw690/0084b03xgy1gwsn7sf4k3j309m09l0u9.jpg"/>
 
 
 
@@ -22,10 +19,11 @@
 <ul>
 <li>🏛️ Undergraduate student of BIT, majoring in Computer Science and Technology</li>
 <li>🔍 Cyber security ... </li>
-<li>🌟 Personal Website: https://xiabee.cn</li>
-<li>🌟 Blog Website: https://blog.xiabee.cn</li>
+    <li>🌟 Personal Website: <a href="https://xiabee.cn">https://xiabee.cn</a></li>
+    <li>🌟 Blog Website:<a href="https://blog.xiabee.cn"> https://blog.xiabee.cn</a></li>
 <li>🚷 Tom clancy's rainbow six® siege</li>
 </ul>
+
 
 
 
