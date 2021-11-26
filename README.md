@@ -17,7 +17,7 @@
 <li>🔍 Cyber security ... </li>
     <li>🌟 Personal Website: <a href="https://xiabee.cn">https://xiabee.cn</a></li>
     <li>🌟 Blog Website:<a href="https://blog.xiabee.cn"> https://blog.xiabee.cn</a></li>
-<li>🚷 Tom clancy's rainbow six® siege</li>
+<li>🚷 Tom Clancy's Rainbow Six® Siege</li>
 </ul>
 
 
