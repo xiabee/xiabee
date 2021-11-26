@@ -8,10 +8,6 @@
   </a>
   Be All You Can Be.
   <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=xiabee.xiabee" alt="visitors"></p> 
-<img align="right" width="50%" src="https://tva1.sinaimg.cn/mw690/0084b03xgy1gwsn7sf4k3j309m09l0u9.jpg"/>
-
-
-
 
 
 <h2>⚡️ </h2>
