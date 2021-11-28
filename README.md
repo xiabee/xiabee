@@ -12,21 +12,11 @@
 
 <h2>⚡️ </h2>
 
-<ul>
-<li>🏛️ Undergraduate student of BIT, majoring in Computer Science and Technology</li>
-<li>🔍 Cyber security ... </li>
-    <li>🌟 Personal Website: <a href="https://xiabee.cn">https://xiabee.cn</a></li>
-    <li>🌟 Blog Website:<a href="https://blog.xiabee.cn"> https://blog.xiabee.cn</a></li>
-<li>🚷 Tom Clancy's Rainbow Six® Siege</li>
-</ul>
-
-
-
-
-
-
-
-
+* 🏛️ Undergraduate student of BIT, majoring in Computer Science and Technology
+* 🔍 Cyber security ... 
+* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)
+* 🌟 Blog Website: [https://blog.xiabee.cn](https://blog.xiabee.cn)
+* 🚷 [Tom Clancy's Rainbow Six® Siege](https://r6stats.com/zh/stats/4a34ba9a-b32e-4375-a0d7-16f735516ede/)
 
 <div align="center">
 <table border="0">
