@@ -1,21 +1,18 @@
 <h1 align=center>👋 Hi, I'm <a href="https://xiabee.cn/">XiaBee</a></h2>
 
-
-
 <p align=center>
   <a href="https://blog.xiabee.cn">
     <img align=left href="https://blog.xiabee.cn" src="https://img.shields.io/badge/cs-notes-blue">
   </a>
   Be All You Can Be.
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=xiabee.xiabee" alt="visitors"></p> 
-
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=xiabee.xiabee" alt="visitors"></p>
 
 <h2>⚡️ </h2>
 
-* 🏛️ Undergraduate student of BIT, majoring in Computer Science and Technology
-* 🔍 Cyber security ... 
+* 🏛️ Undergraduate student of [BIT](https://bit.edu.cn/), majoring in Computer Science and Technology
+* 🔍 Working in [PingCAP](https://pingcap.com/zh/) , [R&D Group](https://github.com/pingcap), Security Engineer
 * 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)
-* 🌟 Blog Website: [https://blog.xiabee.cn](https://blog.xiabee.cn)
+* 🌟 Back-up Website: [https://blog.xiabee.cn](https://blog.xiabee.cn)
 * 🚷 [Tom Clancy's Rainbow Six® Siege](https://r6stats.com/zh/stats/4a34ba9a-b32e-4375-a0d7-16f735516ede/)
 
 <div align="center">
@@ -33,8 +30,6 @@
 </td>
 </table>
 </div>
-
-
 
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
