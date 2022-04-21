@@ -12,7 +12,6 @@
 * 🏛️ Undergraduate student of [BIT](https://bit.edu.cn/), majoring in Computer Science and Technology
 * 🔍 Working in [PingCAP](https://pingcap.com/zh/) , [R&D Group](https://github.com/pingcap), Security Engineer
 * 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)
-* 🌟 Back-up Website: [https://blog.xiabee.cn](https://blog.xiabee.cn)
 * 🚷 [Tom Clancy's Rainbow Six® Siege](https://r6stats.com/zh/stats/4a34ba9a-b32e-4375-a0d7-16f735516ede/)
 
 <div align="center">
