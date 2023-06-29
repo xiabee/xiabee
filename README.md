@@ -19,10 +19,16 @@
 <table border="0">
 <tr>
 <td>
-[![Contribution languages](https://ossinsight.xiabee.cn/widgets/contribution-most-used-languages/thumbnail.png)](https://ossinsight.xiabee.cn/widgets/contribution-most-used-languages)
+<td>
+
+## Contribution languages
+
+[![Contribution languages](https://s3.xiabee.cn/pic/2023/06/93bc30aa510f5c2a6208f452108f4d3943856b4cda39973ae1ffbf207687bb4b.png)](https://ossinsight.xiabee.cn/widgets/contribution-most-used-languages)
 
 </td>
 <td>
+
+## Currently working on
 
 [![Currently working on](https://ossinsight.xiabee.cn/widgets/db%2Fsql-1686650509966/thumbnail.png)](https://ossinsight.xiabee.cn/widgets/db%2Fsql-1686650509966)
 
