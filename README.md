@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FxiabeeSec&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600)](https://twitter.com/xiabeeSec)
 
 
-* 🏛️ Undergraduate student of [BIT](https://bit.edu.cn/), majoring in Computer Science and Technology
+* 🏛️ Graduate of [BIT](https://bit.edu.cn/), majoring in Computer Science and Technology
 * 🔍 Working in [PingCAP](https://pingcap.com/zh/) , [R&D Group](https://github.com/pingcap), Security Engineer
 * 🌟 Personal Website: [https://blog.xiabee.cn](https://blog.xiabee.cn)
 * 🚷 [Tom Clancy's Rainbow Six® Siege](https://r6stats.com/zh/stats/4a34ba9a-b32e-4375-a0d7-16f735516ede/)
