@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-05T18:56:12Z",
+  "generatedAt": "2026-09-05T19:27:59Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 1436,
+    "commits": 1439,
     "totalContributions": 1890,
     "activeDays": 86,
     "repositoriesTouched": 22,
-    "additions": 547101,
-    "deletions": 30766
+    "additions": 779188,
+    "deletions": 60783
   },
   "last90Days": {
-    "commits": 1284,
+    "commits": 1287,
     "totalContributions": 1725,
     "activeDays": 65
   },
@@ -1540,7 +1540,7 @@
     "allTime": [
       {
         "name": "Go",
-        "percent": 53.1
+        "percent": 53
       },
       {
         "name": "TypeScript",
@@ -1552,7 +1552,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 6.5
+        "percent": 6.7
       },
       {
         "name": "Shell",
@@ -1570,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 57
+        "percent": 56.8
       },
       {
         "name": "Python",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 3.9
+        "percent": 4.1
       },
       {
         "name": "Other",
@@ -1766,8 +1766,8 @@
       [
         12,
         13,
-        6,
-        0,
+        7,
+        2,
         0,
         0,
         0,
