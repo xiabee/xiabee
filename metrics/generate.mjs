@@ -69,11 +69,12 @@ function restHeaders() {
   };
 }
 
-/** GET a REST path; returns null for missing/empty/inaccessible resources. */
+/** GET a REST path; returns null for missing/empty/inaccessible resources.
+ *  Errors are scrubbed of repo names: this runs in public CI logs. */
 async function rest(path) {
   const res = await fetch(`https://api.github.com${path}`, { headers: restHeaders() });
   if ([403, 404, 409, 451].includes(res.status)) return null;
-  if (!res.ok) throw new Error(`REST ${path} -> HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`REST request failed (HTTP ${res.status}) at [path redacted]`);
   const link = res.headers.get('link');
   const data = await res.json();
   if (Array.isArray(data) && link && /rel="next"/.test(link)) {
@@ -85,7 +86,7 @@ async function rest(path) {
 
 async function restUrl(url) {
   const res = await fetch(url, { headers: restHeaders() });
-  if (!res.ok) throw new Error(`REST ${url} -> HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`REST request failed (HTTP ${res.status}) at [path redacted]`);
   const data = await res.json();
   const link = res.headers.get('link');
   if (Array.isArray(data) && link && /rel="next"/.test(link)) {
@@ -95,8 +96,10 @@ async function restUrl(url) {
   return data;
 }
 
-/** stats/contributors returns 202 while the cache warms; retry a few times. */
-async function restStats(path, tries = 10) {
+/** stats/contributors returns 202 while the cache warms; retry with enough
+ *  patience that big repositories are not silently dropped from the totals
+ *  (dropped repos would make the numbers drift between runs). */
+async function restStats(path, tries = 20) {
   for (let i = 0; i < tries; i++) {
     const res = await fetch(`https://api.github.com${path}`, { headers: restHeaders() });
     if (res.status === 202) {
@@ -104,7 +107,7 @@ async function restStats(path, tries = 10) {
       continue;
     }
     if ([403, 404, 409, 451].includes(res.status)) return null;
-    if (!res.ok) throw new Error(`REST ${path} -> HTTP ${res.status}`);
+    if (!res.ok) throw new Error(`REST stats request failed (HTTP ${res.status}) at [path redacted]`);
     return await res.json();
   }
   return null;
