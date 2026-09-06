@@ -54,9 +54,9 @@
 
 | | | |
 | --- | --- | --- |
-| 🐹 **Go** | backend services · infrastructure · static binaries | ██████████ |
-| 🦀 **Rust** | systems tooling · async software | ██████ |
-| 🐍 **Python** | data pipelines · automation · analysis | ███████ |
+| <img alt="Go" src="https://cdn.simpleicons.org/go/00ADD8" width="20"> **Go** | backend services · infrastructure · static binaries | ██████████ |
+| <img alt="Rust" src="https://cdn.simpleicons.org/rust/CE412B" width="20"> **Rust** | systems tooling · async software | ██████ |
+| <img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="20"> **Python** | data pipelines · automation · analysis | ███████ |
 | ⚙️ **Systems** | reliable services · CLI/TUI · Linux | ███████ |
 | 🛡️ **Security** | secure-by-design engineering · analysis | ██████ |
 | 📊 **Data** | databases · analytics · observability | █████ |
@@ -76,12 +76,21 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img alt="Go and Rust — core languages" src="https://skillicons.dev/icons?i=go,rust" width="148">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 <p align="center">
-  <img alt="Python, TypeScript, C++, Shell, Linux, Docker, PostgreSQL, SQLite and GitHub Actions" src="https://skillicons.dev/icons?i=python,ts,cpp,bash,linux,docker,postgres,sqlite,githubactions">
-  <img alt="TiDB" src="https://img.shields.io/badge/TiDB-C3232A?style=flat-square&logo=pingcap&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="TiDB" src="https://img.shields.io/badge/TiDB-C3232A?style=flat-square&logo=pingcap&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
