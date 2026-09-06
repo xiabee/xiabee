@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Security · Systems · Backend · Data</strong><br>
   <sub>Building useful systems, one commit at a time.</sub><br>
-  <sub>Security Engineer at <a href="https://pingcap.com">PingCAP</a> · CS graduate of <a href="https://www.bit.edu.cn/">BIT</a></sub>
+  <sub>Security Engineer at <a href="https://pingcap.com">PingCAP</a> · CS graduate of <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a></sub>
 </p>
 
 <p align="center">
