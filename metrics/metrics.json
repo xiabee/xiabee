@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-06T00:24:01Z",
+  "generatedAt": "2026-09-06T20:57:05Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 1545,
-    "totalContributions": 2029,
+    "commits": 1799,
+    "totalContributions": 2116,
     "activeDays": 87,
-    "repositoriesTouched": 22,
-    "additions": 701013,
-    "deletions": 54650
+    "repositoriesTouched": 24,
+    "additions": 971475,
+    "deletions": 156583
   },
   "last90Days": {
-    "commits": 1393,
-    "totalContributions": 1857,
+    "commits": 1640,
+    "totalContributions": 1944,
     "activeDays": 65
   },
   "monthly": [
@@ -59,7 +59,7 @@
     },
     {
       "month": "2026-07",
-      "count": 482
+      "count": 494
     },
     {
       "month": "2026-08",
@@ -67,7 +67,7 @@
     },
     {
       "month": "2026-09",
-      "count": 314
+      "count": 389
     }
   ],
   "calendar": [
@@ -1337,7 +1337,7 @@
     },
     {
       "date": "2026-07-20",
-      "count": 13
+      "count": 25
     },
     {
       "date": "2026-07-21",
@@ -1529,56 +1529,56 @@
     },
     {
       "date": "2026-09-06",
-      "count": 135
+      "count": 210
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 52.6
+        "percent": 53.8
       },
       {
         "name": "TypeScript",
-        "percent": 15.9
+        "percent": 15.6
       },
       {
         "name": "Python",
-        "percent": 11.8
+        "percent": 11.2
       },
       {
         "name": "JavaScript",
-        "percent": 6.9
+        "percent": 6.4
       },
       {
         "name": "Rust",
-        "percent": 4.1
+        "percent": 4.7
       },
       {
         "name": "Shell",
-        "percent": 3.4
+        "percent": 3.2
       },
       {
         "name": "Other",
-        "percent": 5.4
+        "percent": 5.1
       }
     ],
     "recent": [
       {
         "name": "Go",
-        "percent": 57.1
+        "percent": 58.6
       },
       {
         "name": "Python",
-        "percent": 13.7
+        "percent": 11.9
       },
       {
         "name": "TypeScript",
-        "percent": 11.4
+        "percent": 11
       },
       {
         "name": "Rust",
-        "percent": 6.6
+        "percent": 8.1
       },
       {
         "name": "JavaScript",
@@ -1586,16 +1586,16 @@
       },
       {
         "name": "Shell",
-        "percent": 4.5
+        "percent": 3.9
       },
       {
         "name": "Other",
-        "percent": 2
+        "percent": 1.8
       }
     ]
   },
   "publicActivity": {
-    "commits": 29,
+    "commits": 34,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1604,11 +1604,11 @@
   "rhythm": {
     "weekdayHour": [
       [
-        6,
-        8,
-        0,
-        0,
-        0,
+        47,
+        62,
+        46,
+        22,
+        9,
         0,
         0,
         0,
@@ -1625,9 +1625,9 @@
         6,
         2,
         0,
-        3,
-        8,
-        4
+        4,
+        15,
+        8
       ],
       [
         12,
@@ -1768,22 +1768,22 @@
         12,
         0,
         2,
-        12,
-        0,
-        2,
+        40,
         1,
+        5,
         8,
-        8,
+        11,
+        12,
         2,
         6,
         7,
-        19,
-        4,
-        5,
-        4,
-        17,
+        22,
+        7,
         6,
-        10
+        6,
+        18,
+        7,
+        23
       ]
     ]
   }
