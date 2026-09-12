@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-11T21:26:59Z",
+  "generatedAt": "2026-09-12T21:07:21Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 3493,
-    "totalContributions": 3726,
-    "activeDays": 92,
+    "commits": 3927,
+    "totalContributions": 4046,
+    "activeDays": 93,
     "repositoriesTouched": 25,
-    "additions": 1216996,
-    "deletions": 249397
+    "additions": 1224694,
+    "deletions": 252397
   },
   "last90Days": {
-    "commits": 3312,
-    "totalContributions": 3531,
+    "commits": 3744,
+    "totalContributions": 3849,
     "activeDays": 66
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-09",
-      "count": 1999
+      "count": 2319
     }
   ],
   "calendar": [
-    {
-      "date": "2025-09-11",
-      "count": 0
-    },
     {
       "date": "2025-09-12",
       "count": 0
@@ -1534,25 +1530,29 @@
     {
       "date": "2026-09-11",
       "count": 337
+    },
+    {
+      "date": "2026-09-12",
+      "count": 320
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 56.3
+        "percent": 57.2
       },
       {
         "name": "TypeScript",
-        "percent": 12.9
+        "percent": 12.6
       },
       {
         "name": "Python",
-        "percent": 10.6
+        "percent": 10.5
       },
       {
         "name": "Rust",
-        "percent": 7.2
+        "percent": 6.9
       },
       {
         "name": "JavaScript",
@@ -1570,27 +1570,27 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 64.4
+        "percent": 66.2
       },
       {
         "name": "Rust",
-        "percent": 11.7
+        "percent": 11.5
       },
       {
         "name": "TypeScript",
-        "percent": 8.1
+        "percent": 7.6
       },
       {
         "name": "Python",
-        "percent": 7.5
+        "percent": 6.9
       },
       {
         "name": "JavaScript",
-        "percent": 3.8
+        "percent": 3.6
       },
       {
         "name": "Shell",
-        "percent": 2.8
+        "percent": 2.7
       },
       {
         "name": "Other",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 249,
+    "commits": 275,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1739,17 +1739,17 @@
       ],
       [
         91,
-        78,
-        44,
+        84,
+        53,
         34,
         20,
-        19,
-        0,
-        0,
-        10,
+        27,
         6,
+        17,
+        14,
+        7,
         0,
-        4,
+        8,
         0,
         2,
         0,
@@ -1761,15 +1761,15 @@
         2,
         2,
         3,
-        8
+        25
       ],
       [
-        16,
-        24,
-        22,
-        22,
-        26,
-        12,
+        97,
+        102,
+        114,
+        88,
+        68,
+        15,
         0,
         2,
         40,
