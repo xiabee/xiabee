@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-16T21:48:11Z",
+  "generatedAt": "2026-09-17T21:50:19Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 4978,
-    "totalContributions": 5247,
-    "activeDays": 97,
+    "commits": 5254,
+    "totalContributions": 5511,
+    "activeDays": 98,
     "repositoriesTouched": 26,
-    "additions": 1375091,
-    "deletions": 313206
+    "additions": 1393657,
+    "deletions": 322411
   },
   "last90Days": {
-    "commits": 4780,
-    "totalContributions": 5034,
+    "commits": 5056,
+    "totalContributions": 5296,
     "activeDays": 68
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-09",
-      "count": 3520
+      "count": 3784
     }
   ],
   "calendar": [
-    {
-      "date": "2025-09-16",
-      "count": 0
-    },
     {
       "date": "2025-09-17",
       "count": 0
@@ -1534,25 +1530,29 @@
     {
       "date": "2026-09-16",
       "count": 108
+    },
+    {
+      "date": "2026-09-17",
+      "count": 264
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 58.5
+        "percent": 58.2
       },
       {
         "name": "TypeScript",
-        "percent": 11.8
+        "percent": 11.7
       },
       {
         "name": "Python",
-        "percent": 9.9
+        "percent": 9.8
       },
       {
         "name": "Rust",
-        "percent": 7
+        "percent": 7.5
       },
       {
         "name": "JavaScript",
@@ -1574,7 +1574,7 @@
       },
       {
         "name": "Rust",
-        "percent": 10.7
+        "percent": 11
       },
       {
         "name": "TypeScript",
@@ -1582,15 +1582,15 @@
       },
       {
         "name": "Python",
-        "percent": 5.8
+        "percent": 5.6
       },
       {
         "name": "JavaScript",
-        "percent": 3.4
+        "percent": 3.3
       },
       {
         "name": "Shell",
-        "percent": 2.9
+        "percent": 3
       },
       {
         "name": "Other",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 329,
+    "commits": 10,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1691,33 +1691,33 @@
         119,
         67,
         36,
-        7,
-        0,
-        3,
-        16,
-        18,
-        15,
-        30,
-        32,
         8,
+        9,
+        10,
+        25,
+        22,
+        19,
+        33,
+        34,
+        9,
         7,
-        17,
-        20,
-        17,
+        18,
+        27,
+        18,
         7,
         8,
         10,
         6,
         16,
-        51
+        78
       ],
       [
-        117,
-        107,
-        61,
-        20,
-        18,
-        15,
+        182,
+        148,
+        104,
+        47,
+        24,
+        33,
         8,
         7,
         21,
