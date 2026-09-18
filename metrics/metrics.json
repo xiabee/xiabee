@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-17T21:50:19Z",
+  "generatedAt": "2026-09-18T21:21:49Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 5254,
-    "totalContributions": 5511,
-    "activeDays": 98,
-    "repositoriesTouched": 26,
-    "additions": 1393657,
-    "deletions": 322411
+    "commits": 5369,
+    "totalContributions": 6158,
+    "activeDays": 99,
+    "repositoriesTouched": 27,
+    "additions": 1420163,
+    "deletions": 323783
   },
   "last90Days": {
-    "commits": 5056,
-    "totalContributions": 5296,
-    "activeDays": 68
+    "commits": 5171,
+    "totalContributions": 5943,
+    "activeDays": 69
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-09",
-      "count": 3784
+      "count": 4431
     }
   ],
   "calendar": [
-    {
-      "date": "2025-09-17",
-      "count": 0
-    },
     {
       "date": "2025-09-18",
       "count": 0
@@ -1489,70 +1485,74 @@
     },
     {
       "date": "2026-09-06",
-      "count": 210
+      "count": 213
     },
     {
       "date": "2026-09-07",
-      "count": 234
+      "count": 278
     },
     {
       "date": "2026-09-08",
-      "count": 233
+      "count": 252
     },
     {
       "date": "2026-09-09",
-      "count": 463
+      "count": 487
     },
     {
       "date": "2026-09-10",
-      "count": 387
+      "count": 404
     },
     {
       "date": "2026-09-11",
-      "count": 352
+      "count": 376
     },
     {
       "date": "2026-09-12",
-      "count": 320
+      "count": 341
     },
     {
       "date": "2026-09-13",
-      "count": 464
+      "count": 484
     },
     {
       "date": "2026-09-14",
-      "count": 386
+      "count": 398
     },
     {
       "date": "2026-09-15",
-      "count": 184
+      "count": 191
     },
     {
       "date": "2026-09-16",
-      "count": 108
+      "count": 123
     },
     {
       "date": "2026-09-17",
-      "count": 264
+      "count": 338
+    },
+    {
+      "date": "2026-09-18",
+      "count": 367
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 58.2
+        "percent": 58.9
       },
       {
         "name": "TypeScript",
-        "percent": 11.7
+        "percent": 11.4
       },
       {
         "name": "Python",
-        "percent": 9.8
+        "percent": 9.6
       },
       {
         "name": "Rust",
-        "percent": 7.5
+        "percent": 7.4
       },
       {
         "name": "JavaScript",
@@ -1560,21 +1560,21 @@
       },
       {
         "name": "Shell",
-        "percent": 3.4
+        "percent": 3.5
       },
       {
         "name": "Other",
-        "percent": 4.3
+        "percent": 4.2
       }
     ],
     "recent": [
       {
         "name": "Go",
-        "percent": 68.1
+        "percent": 68.2
       },
       {
         "name": "Rust",
-        "percent": 11
+        "percent": 10.9
       },
       {
         "name": "TypeScript",
@@ -1582,11 +1582,11 @@
       },
       {
         "name": "Python",
-        "percent": 5.6
+        "percent": 5.4
       },
       {
         "name": "JavaScript",
-        "percent": 3.3
+        "percent": 3.4
       },
       {
         "name": "Shell",
@@ -1594,12 +1594,12 @@
       },
       {
         "name": "Other",
-        "percent": 1.7
+        "percent": 1.6
       }
     ]
   },
   "publicActivity": {
-    "commits": 10,
+    "commits": 593,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1608,10 +1608,10 @@
   "rhythm": {
     "weekdayHour": [
       [
-        122,
-        145,
-        116,
-        50,
+        121,
+        144,
+        114,
+        48,
         32,
         29,
         28,
@@ -1634,8 +1634,8 @@
         33
       ],
       [
-        103,
-        112,
+        100,
+        111,
         33,
         33,
         15,
@@ -1643,7 +1643,7 @@
         0,
         1,
         7,
-        72,
+        71,
         26,
         25,
         36,
@@ -1657,18 +1657,18 @@
         8,
         4,
         5,
-        91
+        89
       ],
       [
-        142,
-        174,
-        90,
+        139,
+        170,
+        84,
         38,
         18,
         1,
         1,
         1,
-        12,
+        10,
         43,
         63,
         52,
@@ -1676,26 +1676,26 @@
         22,
         13,
         23,
-        29,
+        32,
         25,
         9,
         12,
         3,
         4,
         8,
-        33
+        36
       ],
       [
-        144,
-        178,
-        119,
-        67,
-        36,
-        8,
-        9,
-        10,
-        25,
-        22,
+        140,
+        173,
+        118,
+        70,
+        42,
+        14,
+        15,
+        18,
+        28,
+        23,
         19,
         33,
         34,
@@ -1709,20 +1709,20 @@
         10,
         6,
         16,
-        78
+        77
       ],
       [
-        182,
-        148,
-        104,
-        47,
-        24,
+        183,
+        143,
+        106,
+        52,
         33,
-        8,
-        7,
-        21,
+        44,
         25,
-        18,
+        34,
+        44,
+        32,
+        23,
         12,
         11,
         7,
@@ -1735,15 +1735,15 @@
         9,
         3,
         11,
-        60
+        75
       ],
       [
-        91,
-        84,
-        53,
+        111,
+        85,
+        52,
         34,
         20,
-        27,
+        26,
         6,
         17,
         14,
@@ -1761,19 +1761,19 @@
         2,
         2,
         3,
-        25
+        24
       ],
       [
-        97,
-        102,
-        114,
-        88,
-        68,
+        94,
+        99,
+        110,
+        86,
+        63,
         40,
         22,
         24,
         47,
-        2,
+        1,
         5,
         8,
         11,
@@ -1787,7 +1787,7 @@
         6,
         18,
         7,
-        47
+        45
       ]
     ]
   }
