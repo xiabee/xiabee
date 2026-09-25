@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-24T21:54:12Z",
+  "generatedAt": "2026-09-25T21:54:27Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 6937,
-    "totalContributions": 8821,
-    "activeDays": 105,
+    "commits": 7153,
+    "totalContributions": 9046,
+    "activeDays": 106,
     "repositoriesTouched": 26,
-    "additions": 1689047,
-    "deletions": 389445
+    "additions": 1706723,
+    "deletions": 390394
   },
   "last90Days": {
-    "commits": 6676,
-    "totalContributions": 8540,
-    "activeDays": 71
+    "commits": 6892,
+    "totalContributions": 8765,
+    "activeDays": 72
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-09",
-      "count": 7094
+      "count": 7319
     }
   ],
   "calendar": [
-    {
-      "date": "2025-09-24",
-      "count": 0
-    },
     {
       "date": "2025-09-25",
       "count": 0
@@ -1534,21 +1530,25 @@
     {
       "date": "2026-09-24",
       "count": 188
+    },
+    {
+      "date": "2026-09-25",
+      "count": 225
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61
+        "percent": 61.2
       },
       {
         "name": "Python",
-        "percent": 8.4
+        "percent": 8.3
       },
       {
         "name": "TypeScript",
-        "percent": 7.9
+        "percent": 7.8
       },
       {
         "name": "Rust",
@@ -1560,7 +1560,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.9
+        "percent": 4.8
       },
       {
         "name": "Other",
@@ -1570,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69
+        "percent": 69.1
       },
       {
         "name": "Rust",
@@ -1582,11 +1582,11 @@
       },
       {
         "name": "TypeScript",
-        "percent": 4.8
+        "percent": 4.9
       },
       {
         "name": "Python",
-        "percent": 4.2
+        "percent": 4.1
       },
       {
         "name": "JavaScript",
@@ -1594,12 +1594,12 @@
       },
       {
         "name": "Other",
-        "percent": 2
+        "percent": 2.1
       }
     ]
   },
   "publicActivity": {
-    "commits": 1012,
+    "commits": 1039,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1717,33 +1717,33 @@
         139,
         90,
         52,
-        59,
-        25,
-        34,
-        44,
-        32,
+        61,
+        28,
+        36,
+        51,
+        33,
         23,
-        12,
+        13,
         11,
-        7,
+        9,
         18,
         14,
         6,
         2,
-        3,
         4,
+        7,
         9,
         3,
         11,
-        76
+        88
       ],
       [
-        119,
-        83,
-        52,
-        34,
-        20,
-        26,
+        173,
+        123,
+        74,
+        61,
+        48,
+        37,
         6,
         17,
         14,
