@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-01T22:57:20Z",
+  "generatedAt": "2026-10-02T22:42:14Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 8312,
-    "totalContributions": 10157,
-    "activeDays": 112,
+    "commits": 8467,
+    "totalContributions": 10349,
+    "activeDays": 113,
     "repositoriesTouched": 26,
-    "additions": 1845889,
-    "deletions": 437955
+    "additions": 1855059,
+    "deletions": 438703
   },
   "last90Days": {
-    "commits": 7977,
-    "totalContributions": 9802,
-    "activeDays": 73
+    "commits": 8132,
+    "totalContributions": 9994,
+    "activeDays": 74
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 190
+      "count": 382
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-01",
-      "count": 0
-    },
     {
       "date": "2025-10-02",
       "count": 0
@@ -1534,13 +1530,17 @@
     {
       "date": "2026-10-01",
       "count": 190
+    },
+    {
+      "date": "2026-10-02",
+      "count": 192
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61
+        "percent": 61.1
       },
       {
         "name": "Rust",
@@ -1570,11 +1570,11 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69.1
+        "percent": 69
       },
       {
         "name": "Rust",
-        "percent": 9.2
+        "percent": 9.3
       },
       {
         "name": "Shell",
@@ -1582,7 +1582,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 5.6
+        "percent": 5.5
       },
       {
         "name": "JavaScript",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1099,
+    "commits": 1110,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1657,7 +1657,7 @@
         11,
         12,
         17,
-        104
+        103
       ],
       [
         178,
@@ -1718,9 +1718,9 @@
         112,
         70,
         70,
-        31,
-        36,
-        51,
+        34,
+        41,
+        61,
         33,
         23,
         13,
@@ -1735,16 +1735,16 @@
         9,
         3,
         11,
-        88
+        91
       ],
       [
-        173,
-        124,
+        205,
+        143,
+        107,
         74,
-        61,
-        48,
-        38,
-        14,
+        59,
+        57,
+        22,
         21,
         22,
         8,
