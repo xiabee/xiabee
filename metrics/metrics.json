@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-03T21:53:58Z",
+  "generatedAt": "2026-10-04T22:07:00Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 8493,
-    "totalContributions": 10530,
-    "activeDays": 114,
+    "commits": 8640,
+    "totalContributions": 10543,
+    "activeDays": 115,
     "repositoriesTouched": 26,
-    "additions": 1855568,
-    "deletions": 438731
+    "additions": 1865856,
+    "deletions": 439801
   },
   "last90Days": {
-    "commits": 8158,
-    "totalContributions": 10175,
+    "commits": 8288,
+    "totalContributions": 10171,
     "activeDays": 75
   },
   "monthly": [
@@ -67,18 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 563
+      "count": 576
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-03",
-      "count": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0
@@ -1534,21 +1526,25 @@
     {
       "date": "2026-10-03",
       "count": 181
+    },
+    {
+      "date": "2026-10-04",
+      "count": 13
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61
+        "percent": 61.1
       },
       {
         "name": "Rust",
-        "percent": 8
+        "percent": 8.2
       },
       {
         "name": "TypeScript",
-        "percent": 8
+        "percent": 7.9
       },
       {
         "name": "Python",
@@ -1560,7 +1556,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.8
+        "percent": 4.7
       },
       {
         "name": "Other",
@@ -1570,11 +1566,11 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69
+        "percent": 69.1
       },
       {
         "name": "Rust",
-        "percent": 9.3
+        "percent": 9.4
       },
       {
         "name": "Shell",
@@ -1590,7 +1586,7 @@
       },
       {
         "name": "Python",
-        "percent": 3.5
+        "percent": 3.4
       },
       {
         "name": "Other",
@@ -1608,13 +1604,13 @@
   "rhythm": {
     "weekdayHour": [
       [
-        196,
-        203,
-        172,
-        125,
-        86,
-        70,
-        65,
+        224,
+        221,
+        190,
+        157,
+        109,
+        87,
+        66,
         47,
         55,
         47,
@@ -1772,7 +1768,7 @@
         56,
         34,
         27,
-        53,
+        54,
         5,
         38,
         42,
@@ -1787,7 +1783,7 @@
         21,
         30,
         23,
-        81
+        90
       ]
     ]
   }
