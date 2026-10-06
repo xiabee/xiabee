@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-06T00:29:30Z",
+  "generatedAt": "2026-10-06T22:50:33Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 8878,
-    "totalContributions": 10953,
+    "commits": 9027,
+    "totalContributions": 10970,
     "activeDays": 117,
     "repositoriesTouched": 26,
-    "additions": 1878271,
-    "deletions": 441218
+    "additions": 1889611,
+    "deletions": 443035
   },
   "last90Days": {
-    "commits": 8516,
-    "totalContributions": 10527,
+    "commits": 8624,
+    "totalContributions": 10544,
     "activeDays": 75
   },
   "monthly": [
@@ -67,7 +67,7 @@
     },
     {
       "month": "2026-10",
-      "count": 986
+      "count": 1003
     }
   ],
   "calendar": [
@@ -1533,22 +1533,22 @@
     },
     {
       "date": "2026-10-06",
-      "count": 198
+      "count": 215
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61
+        "percent": 60.8
       },
       {
         "name": "Rust",
-        "percent": 8.1
+        "percent": 8.4
       },
       {
         "name": "TypeScript",
-        "percent": 8
+        "percent": 8.1
       },
       {
         "name": "Python",
@@ -1570,19 +1570,19 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69
+        "percent": 68.7
       },
       {
         "name": "Rust",
-        "percent": 9.4
+        "percent": 9.9
       },
       {
         "name": "Shell",
-        "percent": 6.6
+        "percent": 6.5
       },
       {
         "name": "TypeScript",
-        "percent": 5.8
+        "percent": 6
       },
       {
         "name": "JavaScript",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Python",
-        "percent": 3.4
+        "percent": 3
       },
       {
         "name": "Other",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1125,
+    "commits": 1127,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1642,7 +1642,7 @@
         46,
         25,
         14,
-        29,
+        33,
         88,
         50,
         46,
@@ -1657,16 +1657,16 @@
         11,
         12,
         17,
-        103
+        113
       ],
       [
-        178,
-        188,
-        105,
-        62,
-        41,
-        4,
-        7,
+        211,
+        207,
+        126,
+        87,
+        57,
+        17,
+        15,
         6,
         17,
         55,
