@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-04T22:07:00Z",
+  "generatedAt": "2026-10-06T00:29:30Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 8640,
-    "totalContributions": 10543,
-    "activeDays": 115,
+    "commits": 8878,
+    "totalContributions": 10953,
+    "activeDays": 117,
     "repositoriesTouched": 26,
-    "additions": 1865856,
-    "deletions": 439801
+    "additions": 1878271,
+    "deletions": 441218
   },
   "last90Days": {
-    "commits": 8288,
-    "totalContributions": 10171,
+    "commits": 8516,
+    "totalContributions": 10527,
     "activeDays": 75
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 576
+      "count": 986
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-05",
-      "count": 0
-    },
     {
       "date": "2025-10-06",
       "count": 0
@@ -1530,21 +1526,29 @@
     {
       "date": "2026-10-04",
       "count": 13
+    },
+    {
+      "date": "2026-10-05",
+      "count": 212
+    },
+    {
+      "date": "2026-10-06",
+      "count": 198
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61.1
+        "percent": 61
       },
       {
         "name": "Rust",
-        "percent": 8.2
+        "percent": 8.1
       },
       {
         "name": "TypeScript",
-        "percent": 7.9
+        "percent": 8
       },
       {
         "name": "Python",
@@ -1566,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69.1
+        "percent": 69
       },
       {
         "name": "Rust",
@@ -1574,11 +1578,11 @@
       },
       {
         "name": "Shell",
-        "percent": 6.7
+        "percent": 6.6
       },
       {
         "name": "TypeScript",
-        "percent": 5.5
+        "percent": 5.8
       },
       {
         "name": "JavaScript",
@@ -1595,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1117,
+    "commits": 1125,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1610,9 +1614,9 @@
         157,
         109,
         87,
-        66,
-        47,
-        55,
+        83,
+        59,
+        64,
         47,
         47,
         35,
@@ -1627,18 +1631,18 @@
         22,
         21,
         35,
-        57
+        71
       ],
       [
-        157,
-        142,
-        75,
+        190,
+        177,
+        104,
+        77,
         55,
-        31,
-        28,
-        9,
-        8,
-        26,
+        46,
+        25,
+        14,
+        29,
         88,
         50,
         46,
