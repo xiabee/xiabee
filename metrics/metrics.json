@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-06T22:50:33Z",
+  "generatedAt": "2026-10-07T23:24:31Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 9027,
-    "totalContributions": 10970,
-    "activeDays": 117,
+    "commits": 9189,
+    "totalContributions": 11156,
+    "activeDays": 118,
     "repositoriesTouched": 26,
-    "additions": 1889611,
-    "deletions": 443035
+    "additions": 1898825,
+    "deletions": 443975
   },
   "last90Days": {
-    "commits": 8624,
-    "totalContributions": 10544,
+    "commits": 8784,
+    "totalContributions": 10719,
     "activeDays": 75
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 1003
+      "count": 1189
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-06",
-      "count": 0
-    },
     {
       "date": "2025-10-07",
       "count": 0
@@ -1534,13 +1530,17 @@
     {
       "date": "2026-10-06",
       "count": 215
+    },
+    {
+      "date": "2026-10-07",
+      "count": 186
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 60.8
+        "percent": 60.9
       },
       {
         "name": "Rust",
@@ -1552,7 +1552,7 @@
       },
       {
         "name": "Python",
-        "percent": 7.9
+        "percent": 7.8
       },
       {
         "name": "Shell",
@@ -1564,7 +1564,7 @@
       },
       {
         "name": "Other",
-        "percent": 3.8
+        "percent": 3.7
       }
     ],
     "recent": [
@@ -1578,7 +1578,7 @@
       },
       {
         "name": "Shell",
-        "percent": 6.5
+        "percent": 6.6
       },
       {
         "name": "TypeScript",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Python",
-        "percent": 3
+        "percent": 2.9
       },
       {
         "name": "Other",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1127,
+    "commits": 1136,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1661,14 +1661,14 @@
       ],
       [
         211,
-        207,
+        211,
         126,
         87,
         57,
         17,
         15,
-        6,
-        17,
+        8,
+        27,
         55,
         74,
         65,
@@ -1683,17 +1683,17 @@
         9,
         9,
         12,
-        47
+        59
       ],
       [
-        174,
-        217,
-        147,
-        92,
-        56,
+        202,
+        242,
+        172,
+        114,
+        72,
+        33,
         25,
-        16,
-        21,
+        22,
         35,
         47,
         32,
