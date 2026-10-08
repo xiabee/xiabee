@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-07T23:24:31Z",
+  "generatedAt": "2026-10-08T23:36:11Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 9189,
-    "totalContributions": 11156,
-    "activeDays": 118,
+    "commits": 9381,
+    "totalContributions": 11324,
+    "activeDays": 119,
     "repositoriesTouched": 26,
-    "additions": 1898825,
-    "deletions": 443975
+    "additions": 1910931,
+    "deletions": 444913
   },
   "last90Days": {
-    "commits": 8784,
-    "totalContributions": 10719,
+    "commits": 8969,
+    "totalContributions": 10879,
     "activeDays": 75
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 1189
+      "count": 1357
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-07",
-      "count": 0
-    },
     {
       "date": "2025-10-08",
       "count": 0
@@ -1534,13 +1530,17 @@
     {
       "date": "2026-10-07",
       "count": 186
+    },
+    {
+      "date": "2026-10-08",
+      "count": 168
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 60.9
+        "percent": 60.8
       },
       {
         "name": "Rust",
@@ -1578,11 +1578,11 @@
       },
       {
         "name": "Shell",
-        "percent": 6.6
+        "percent": 6.5
       },
       {
         "name": "TypeScript",
-        "percent": 6
+        "percent": 6.3
       },
       {
         "name": "JavaScript",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Python",
-        "percent": 2.9
+        "percent": 2.8
       },
       {
         "name": "Other",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1136,
+    "commits": 1145,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1693,8 +1693,8 @@
         72,
         33,
         25,
-        22,
-        35,
+        25,
+        42,
         47,
         32,
         42,
@@ -1709,17 +1709,17 @@
         18,
         19,
         21,
-        105
+        118
       ],
       [
-        250,
-        229,
-        157,
-        112,
-        70,
-        70,
-        34,
-        41,
+        287,
+        241,
+        168,
+        145,
+        101,
+        93,
+        50,
+        47,
         61,
         33,
         23,
