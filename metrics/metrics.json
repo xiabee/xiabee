@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-13T01:01:40Z",
+  "generatedAt": "2026-10-13T23:09:35Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 9807,
-    "totalContributions": 11964,
+    "commits": 9833,
+    "totalContributions": 11998,
     "activeDays": 124,
     "repositoriesTouched": 26,
-    "additions": 1943995,
-    "deletions": 448787
+    "additions": 1946865,
+    "deletions": 449134
   },
   "last90Days": {
-    "commits": 9365,
-    "totalContributions": 11458,
+    "commits": 9389,
+    "totalContributions": 11492,
     "activeDays": 75
   },
   "monthly": [
@@ -67,7 +67,7 @@
     },
     {
       "month": "2026-10",
-      "count": 1997
+      "count": 2031
     }
   ],
   "calendar": [
@@ -1529,18 +1529,18 @@
     },
     {
       "date": "2026-10-12",
-      "count": 213
+      "count": 217
     },
     {
       "date": "2026-10-13",
-      "count": 21
+      "count": 51
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61.1
+        "percent": 61
       },
       {
         "name": "Rust",
@@ -1552,7 +1552,7 @@
       },
       {
         "name": "Python",
-        "percent": 7.6
+        "percent": 7.7
       },
       {
         "name": "Shell",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Python",
-        "percent": 2.7
+        "percent": 2.8
       },
       {
         "name": "Other",
@@ -1599,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1175,
+    "commits": 1177,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1619,7 +1619,7 @@
         74,
         48,
         52,
-        38,
+        39,
         37,
         9,
         23,
@@ -1643,8 +1643,8 @@
         25,
         14,
         33,
-        88,
-        50,
+        109,
+        54,
         46,
         75,
         55,
