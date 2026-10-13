@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-11T22:35:03Z",
+  "generatedAt": "2026-10-13T01:01:40Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 9738,
-    "totalContributions": 11730,
-    "activeDays": 122,
+    "commits": 9807,
+    "totalContributions": 11964,
+    "activeDays": 124,
     "repositoriesTouched": 26,
-    "additions": 1938304,
-    "deletions": 448114
+    "additions": 1943995,
+    "deletions": 448787
   },
   "last90Days": {
-    "commits": 9303,
-    "totalContributions": 11240,
+    "commits": 9365,
+    "totalContributions": 11458,
     "activeDays": 75
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 1763
+      "count": 1997
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-12",
-      "count": 0
-    },
     {
       "date": "2025-10-13",
       "count": 0
@@ -1530,13 +1526,21 @@
     {
       "date": "2026-10-11",
       "count": 101
+    },
+    {
+      "date": "2026-10-12",
+      "count": 213
+    },
+    {
+      "date": "2026-10-13",
+      "count": 21
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 61
+        "percent": 61.1
       },
       {
         "name": "Rust",
@@ -1544,7 +1548,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 8.2
+        "percent": 8.1
       },
       {
         "name": "Python",
@@ -1578,11 +1582,11 @@
       },
       {
         "name": "TypeScript",
-        "percent": 6.3
+        "percent": 6.2
       },
       {
         "name": "JavaScript",
-        "percent": 3.7
+        "percent": 3.8
       },
       {
         "name": "Python",
@@ -1595,7 +1599,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1162,
+    "commits": 1175,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1610,27 +1614,27 @@
         182,
         119,
         95,
-        90,
-        59,
-        64,
-        47,
-        47,
-        35,
-        36,
+        96,
+        68,
+        74,
+        48,
+        52,
+        38,
+        37,
         9,
         23,
-        46,
+        48,
         52,
         51,
         27,
         27,
         22,
         21,
-        35,
-        71
+        36,
+        81
       ],
       [
-        190,
+        211,
         177,
         104,
         77,
