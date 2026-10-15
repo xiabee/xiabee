@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:59:10Z",
+  "generatedAt": "2026-10-15T21:51:58Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -12,9 +12,9 @@
     "deletions": 449134
   },
   "last90Days": {
-    "commits": 9385,
-    "totalContributions": 11486,
-    "activeDays": 74
+    "commits": 9375,
+    "totalContributions": 11474,
+    "activeDays": 73
   },
   "monthly": [
     {
@@ -71,10 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-14",
-      "count": 0
-    },
     {
       "date": "2025-10-15",
       "count": 0
@@ -1534,6 +1530,10 @@
     {
       "date": "2026-10-14",
       "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "count": 0
     }
   ],
   "languages": {
@@ -1570,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69.1
+        "percent": 69.2
       },
       {
         "name": "Rust",
