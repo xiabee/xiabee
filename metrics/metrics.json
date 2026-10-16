@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-15T21:51:58Z",
+  "generatedAt": "2026-10-16T21:50:17Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 9833,
-    "totalContributions": 11998,
-    "activeDays": 124,
+    "commits": 9843,
+    "totalContributions": 12008,
+    "activeDays": 125,
     "repositoriesTouched": 26,
-    "additions": 1946865,
-    "deletions": 449134
+    "additions": 1947392,
+    "deletions": 449157
   },
   "last90Days": {
-    "commits": 9375,
-    "totalContributions": 11474,
-    "activeDays": 73
+    "commits": 9385,
+    "totalContributions": 11484,
+    "activeDays": 74
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 2031
+      "count": 2041
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-15",
-      "count": 0
-    },
     {
       "date": "2025-10-16",
       "count": 0
@@ -1534,6 +1530,10 @@
     {
       "date": "2026-10-15",
       "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "count": 10
     }
   ],
   "languages": {
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Python",
-        "percent": 2.8
+        "percent": 2.7
       },
       {
         "name": "Other",
@@ -1724,12 +1724,12 @@
         34,
         23,
         13,
+        13,
         11,
-        9,
         18,
-        15,
+        16,
+        7,
         6,
-        2,
         4,
         8,
         9,
