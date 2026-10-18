@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-17T21:09:26Z",
+  "generatedAt": "2026-10-18T21:10:54Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
     "commits": 9907,
-    "totalContributions": 12029,
-    "activeDays": 126,
+    "totalContributions": 12078,
+    "activeDays": 127,
     "repositoriesTouched": 26,
     "additions": 1948520,
     "deletions": 449245
   },
   "last90Days": {
-    "commits": 9395,
-    "totalContributions": 11459,
+    "commits": 9382,
+    "totalContributions": 11483,
     "activeDays": 74
   },
   "monthly": [
@@ -67,18 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 2062
+      "count": 2111
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-17",
-      "count": 0
-    },
-    {
-      "date": "2025-10-18",
-      "count": 0
-    },
     {
       "date": "2025-10-19",
       "count": 0
@@ -1534,6 +1526,10 @@
     {
       "date": "2026-10-17",
       "count": 21
+    },
+    {
+      "date": "2026-10-18",
+      "count": 49
     }
   ],
   "languages": {
@@ -1590,7 +1586,7 @@
       },
       {
         "name": "Python",
-        "percent": 2.7
+        "percent": 2.8
       },
       {
         "name": "Other",
@@ -1599,7 +1595,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1177,
+    "commits": 1178,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
