@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-21T22:02:16Z",
+  "generatedAt": "2026-10-22T21:59:54Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10133,
-    "totalContributions": 12294,
-    "activeDays": 130,
+    "commits": 10170,
+    "totalContributions": 12329,
+    "activeDays": 131,
     "repositoriesTouched": 27,
-    "additions": 1974078,
-    "deletions": 454389
+    "additions": 1977503,
+    "deletions": 454528
   },
   "last90Days": {
-    "commits": 9590,
-    "totalContributions": 11678,
+    "commits": 9614,
+    "totalContributions": 11704,
     "activeDays": 75
   },
   "monthly": [
@@ -43,7 +43,7 @@
     },
     {
       "month": "2026-04",
-      "count": 82
+      "count": 81
     },
     {
       "month": "2026-05",
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 2295
+      "count": 2331
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-21",
-      "count": 0
-    },
     {
       "date": "2025-10-22",
       "count": 0
@@ -721,7 +717,7 @@
     },
     {
       "date": "2026-04-01",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-04-02",
@@ -1534,6 +1530,10 @@
     {
       "date": "2026-10-21",
       "count": 75
+    },
+    {
+      "date": "2026-10-22",
+      "count": 36
     }
   ],
   "languages": {
@@ -1548,7 +1548,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 8.2
+        "percent": 8.1
       },
       {
         "name": "Python",
@@ -1560,7 +1560,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.7
+        "percent": 4.8
       },
       {
         "name": "Other",
@@ -1574,7 +1574,7 @@
       },
       {
         "name": "Rust",
-        "percent": 9.6
+        "percent": 9.5
       },
       {
         "name": "Shell",
@@ -1582,15 +1582,15 @@
       },
       {
         "name": "TypeScript",
-        "percent": 6.4
+        "percent": 6.3
       },
       {
         "name": "JavaScript",
-        "percent": 4
+        "percent": 4.1
       },
       {
         "name": "Python",
-        "percent": 2.7
+        "percent": 2.6
       },
       {
         "name": "Other",
@@ -1695,19 +1695,19 @@
         25,
         25,
         42,
-        47,
-        32,
-        42,
-        47,
+        48,
+        35,
+        44,
+        50,
         14,
         7,
-        30,
-        35,
-        24,
-        14,
+        39,
+        39,
+        27,
+        16,
+        25,
+        22,
         21,
-        18,
-        19,
         21,
         118
       ],
