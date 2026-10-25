@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-24T21:19:13Z",
+  "generatedAt": "2026-10-25T21:18:56Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10177,
-    "totalContributions": 12336,
-    "activeDays": 132,
-    "repositoriesTouched": 27,
-    "additions": 1980306,
-    "deletions": 454768
+    "commits": 10185,
+    "totalContributions": 12348,
+    "activeDays": 133,
+    "repositoriesTouched": 28,
+    "additions": 1980666,
+    "deletions": 454798
   },
   "last90Days": {
-    "commits": 9613,
-    "totalContributions": 11689,
+    "commits": 9581,
+    "totalContributions": 11653,
     "activeDays": 74
   },
   "monthly": [
@@ -67,18 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 2338
+      "count": 2350
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-24",
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0
@@ -1534,6 +1526,10 @@
     {
       "date": "2026-10-24",
       "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "count": 12
     }
   ],
   "languages": {
@@ -1564,17 +1560,17 @@
       },
       {
         "name": "Other",
-        "percent": 3.7
+        "percent": 3.6
       }
     ],
     "recent": [
       {
         "name": "Go",
-        "percent": 68.8
+        "percent": 68.9
       },
       {
         "name": "Rust",
-        "percent": 9.5
+        "percent": 9.6
       },
       {
         "name": "Shell",
@@ -1599,7 +1595,7 @@
     ]
   },
   "publicActivity": {
-    "commits": 1178,
+    "commits": 1179,
     "pullRequests": 1,
     "issues": 1,
     "reviews": 0,
@@ -1774,14 +1770,14 @@
         28,
         56,
         5,
-        38,
-        42,
-        59,
+        39,
+        44,
+        60,
         48,
         10,
-        20,
+        22,
         23,
-        44,
+        45,
         39,
         31,
         21,
