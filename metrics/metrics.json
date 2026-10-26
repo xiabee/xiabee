@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-25T21:18:56Z",
+  "generatedAt": "2026-10-26T22:56:21Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10185,
-    "totalContributions": 12348,
-    "activeDays": 133,
+    "commits": 10193,
+    "totalContributions": 12356,
+    "activeDays": 134,
     "repositoriesTouched": 28,
-    "additions": 1980666,
-    "deletions": 454798
+    "additions": 1980813,
+    "deletions": 454810
   },
   "last90Days": {
-    "commits": 9581,
-    "totalContributions": 11653,
+    "commits": 9553,
+    "totalContributions": 11627,
     "activeDays": 74
   },
   "monthly": [
@@ -67,7 +67,7 @@
     },
     {
       "month": "2026-10",
-      "count": 2350
+      "count": 2358
     }
   ],
   "calendar": [
@@ -1530,13 +1530,17 @@
     {
       "date": "2026-10-25",
       "count": 12
+    },
+    {
+      "date": "2026-10-26",
+      "count": 8
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 60.9
+        "percent": 61
       },
       {
         "name": "Rust",
@@ -1566,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 68.9
+        "percent": 69.1
       },
       {
         "name": "Rust",
@@ -1586,11 +1590,11 @@
       },
       {
         "name": "Python",
-        "percent": 2.6
+        "percent": 2.3
       },
       {
         "name": "Other",
-        "percent": 2.1
+        "percent": 2
       }
     ]
   },
@@ -1614,13 +1618,13 @@
         68,
         74,
         58,
-        54,
-        42,
+        56,
+        45,
         37,
         9,
         24,
-        48,
-        52,
+        50,
+        53,
         51,
         27,
         27,
