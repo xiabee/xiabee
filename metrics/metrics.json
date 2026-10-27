@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:56:21Z",
+  "generatedAt": "2026-10-27T22:45:07Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -12,9 +12,9 @@
     "deletions": 454810
   },
   "last90Days": {
-    "commits": 9553,
-    "totalContributions": 11627,
-    "activeDays": 74
+    "commits": 9533,
+    "totalContributions": 11613,
+    "activeDays": 73
   },
   "monthly": [
     {
@@ -71,10 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-26",
-      "count": 0
-    },
     {
       "date": "2025-10-27",
       "count": 0
@@ -1534,6 +1530,10 @@
     {
       "date": "2026-10-26",
       "count": 8
+    },
+    {
+      "date": "2026-10-27",
+      "count": 0
     }
   ],
   "languages": {
@@ -1570,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69.1
+        "percent": 69.2
       },
       {
         "name": "Rust",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Python",
-        "percent": 2.3
+        "percent": 2.2
       },
       {
         "name": "Other",
