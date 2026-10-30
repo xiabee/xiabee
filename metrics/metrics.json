@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-29T23:02:53Z",
+  "generatedAt": "2026-10-30T22:44:02Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10196,
-    "totalContributions": 12359,
-    "activeDays": 135,
+    "commits": 10197,
+    "totalContributions": 12360,
+    "activeDays": 136,
     "repositoriesTouched": 28,
-    "additions": 1981014,
+    "additions": 1981289,
     "deletions": 454887
   },
   "last90Days": {
-    "commits": 9467,
-    "totalContributions": 11536,
-    "activeDays": 72
+    "commits": 9468,
+    "totalContributions": 11537,
+    "activeDays": 73
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-10",
-      "count": 2361
+      "count": 2362
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-29",
-      "count": 0
-    },
     {
       "date": "2025-10-30",
       "count": 0
@@ -1534,6 +1530,10 @@
     {
       "date": "2026-10-29",
       "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "count": 1
     }
   ],
   "languages": {
@@ -1728,7 +1728,7 @@
         11,
         18,
         17,
-        8,
+        9,
         8,
         6,
         8,
