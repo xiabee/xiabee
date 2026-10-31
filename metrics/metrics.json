@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:44:02Z",
+  "generatedAt": "2026-10-31T22:03:52Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -8,8 +8,8 @@
     "totalContributions": 12360,
     "activeDays": 136,
     "repositoriesTouched": 28,
-    "additions": 1981289,
-    "deletions": 454887
+    "additions": 1987101,
+    "deletions": 460699
   },
   "last90Days": {
     "commits": 9468,
@@ -71,10 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-10-30",
-      "count": 0
-    },
     {
       "date": "2025-10-31",
       "count": 0
@@ -1534,6 +1530,10 @@
     {
       "date": "2026-10-30",
       "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "count": 0
     }
   ],
   "languages": {
