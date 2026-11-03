@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:31:45Z",
+  "generatedAt": "2026-11-03T01:24:59Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -71,10 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-02",
-      "count": 0
-    },
     {
       "date": "2025-11-03",
       "count": 0
@@ -1529,6 +1525,14 @@
     },
     {
       "date": "2026-11-01",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
       "count": 0
     }
   ],
