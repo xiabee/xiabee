@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-03T01:24:59Z",
+  "generatedAt": "2026-11-03T23:47:45Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10197,
-    "totalContributions": 12360,
-    "activeDays": 136,
+    "commits": 10198,
+    "totalContributions": 12361,
+    "activeDays": 137,
     "repositoriesTouched": 28,
-    "additions": 1987101,
-    "deletions": 460699
+    "additions": 1990772,
+    "deletions": 460720
   },
   "last90Days": {
-    "commits": 9468,
-    "totalContributions": 11537,
-    "activeDays": 73
+    "commits": 9469,
+    "totalContributions": 11538,
+    "activeDays": 74
   },
   "monthly": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "month": "2026-11",
-      "count": 0
+      "count": 1
     }
   ],
   "calendar": [
@@ -1533,7 +1533,7 @@
     },
     {
       "date": "2026-11-03",
-      "count": 0
+      "count": 1
     }
   ],
   "languages": {
@@ -1548,7 +1548,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 8.1
+        "percent": 8.2
       },
       {
         "name": "Python",
@@ -1574,7 +1574,7 @@
       },
       {
         "name": "Rust",
-        "percent": 9.2
+        "percent": 9.1
       },
       {
         "name": "Shell",
@@ -1644,7 +1644,7 @@
         14,
         33,
         109,
-        56,
+        57,
         48,
         77,
         65,
