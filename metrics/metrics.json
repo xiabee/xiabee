@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:25:56Z",
+  "generatedAt": "2026-11-08T22:36:09Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -12,9 +12,9 @@
     "deletions": 460831
   },
   "last90Days": {
-    "commits": 9456,
-    "totalContributions": 11519,
-    "activeDays": 75
+    "commits": 9420,
+    "totalContributions": 11475,
+    "activeDays": 74
   },
   "monthly": [
     {
@@ -71,14 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-07",
-      "count": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0
@@ -1534,6 +1526,10 @@
     {
       "date": "2026-11-07",
       "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "count": 0
     }
   ],
   "languages": {
@@ -1574,7 +1570,7 @@
       },
       {
         "name": "Rust",
-        "percent": 9.2
+        "percent": 9.3
       },
       {
         "name": "Shell",
@@ -1582,7 +1578,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 6.3
+        "percent": 6.2
       },
       {
         "name": "JavaScript",
@@ -1590,7 +1586,7 @@
       },
       {
         "name": "Python",
-        "percent": 2.1
+        "percent": 2
       },
       {
         "name": "Other",
