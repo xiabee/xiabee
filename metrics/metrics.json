@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-08T22:36:09Z",
+  "generatedAt": "2026-11-10T01:47:52Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10206,
-    "totalContributions": 12369,
-    "activeDays": 139,
+    "commits": 10215,
+    "totalContributions": 12378,
+    "activeDays": 141,
     "repositoriesTouched": 28,
-    "additions": 1996856,
-    "deletions": 460831
+    "additions": 2004729,
+    "deletions": 461167
   },
   "last90Days": {
-    "commits": 9420,
-    "totalContributions": 11475,
+    "commits": 9364,
+    "totalContributions": 11304,
     "activeDays": 74
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-11",
-      "count": 9
+      "count": 18
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-09",
-      "count": 0
-    },
     {
       "date": "2025-11-10",
       "count": 0
@@ -1530,17 +1526,25 @@
     {
       "date": "2026-11-08",
       "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "count": 7
+    },
+    {
+      "date": "2026-11-10",
+      "count": 2
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 60.8
+        "percent": 60.7
       },
       {
         "name": "Rust",
-        "percent": 8.6
+        "percent": 8.8
       },
       {
         "name": "TypeScript",
@@ -1556,7 +1560,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.8
+        "percent": 4.7
       },
       {
         "name": "Other",
@@ -1566,11 +1570,11 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69.6
+        "percent": 69.5
       },
       {
         "name": "Rust",
-        "percent": 9.3
+        "percent": 9.4
       },
       {
         "name": "Shell",
@@ -1578,7 +1582,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 6.2
+        "percent": 6.3
       },
       {
         "name": "JavaScript",
@@ -1590,7 +1594,7 @@
       },
       {
         "name": "Other",
-        "percent": 2
+        "percent": 2.1
       }
     ]
   },
@@ -1613,24 +1617,24 @@
         96,
         68,
         74,
-        58,
+        59,
         56,
-        45,
-        37,
-        9,
+        46,
+        39,
+        10,
         24,
         50,
         53,
-        51,
+        52,
         27,
         27,
         22,
         21,
         36,
-        81
+        82
       ],
       [
-        211,
+        212,
         177,
         104,
         77,
@@ -1639,7 +1643,7 @@
         25,
         14,
         33,
-        109,
+        110,
         57,
         48,
         77,
