@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:55:40Z",
+  "generatedAt": "2026-11-14T00:03:33Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -12,9 +12,9 @@
     "deletions": 484078
   },
   "last90Days": {
-    "commits": 9070,
-    "totalContributions": 11965,
-    "activeDays": 75
+    "commits": 9061,
+    "totalContributions": 11882,
+    "activeDays": 73
   },
   "monthly": [
     {
@@ -71,14 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-12",
-      "count": 0
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0
-    },
     {
       "date": "2025-11-14",
       "count": 0
@@ -1534,6 +1526,14 @@
     {
       "date": "2026-11-12",
       "count": 0
+    },
+    {
+      "date": "2026-11-13",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "count": 0
     }
   ],
   "languages": {
@@ -1586,7 +1586,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.3
+        "percent": 4.2
       },
       {
         "name": "PowerShell",
