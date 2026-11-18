@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:13:05Z",
+  "generatedAt": "2026-11-18T01:26:44Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
@@ -13,8 +13,8 @@
   },
   "last90Days": {
     "commits": 9038,
-    "totalContributions": 11882,
-    "activeDays": 73
+    "totalContributions": 11877,
+    "activeDays": 72
   },
   "monthly": [
     {
@@ -71,10 +71,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-17",
-      "count": 0
-    },
     {
       "date": "2025-11-18",
       "count": 0
@@ -1533,6 +1529,10 @@
     },
     {
       "date": "2026-11-17",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
       "count": 0
     }
   ],
