@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-20T00:58:02Z",
+  "generatedAt": "2026-11-21T00:30:20Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 9797,
-    "totalContributions": 13407,
-    "activeDays": 146,
+    "commits": 9814,
+    "totalContributions": 13424,
+    "activeDays": 147,
     "repositoriesTouched": 27,
-    "additions": 2176894,
-    "deletions": 484128
+    "additions": 2179899,
+    "deletions": 484376
   },
   "last90Days": {
-    "commits": 9051,
-    "totalContributions": 11871,
-    "activeDays": 73
+    "commits": 9068,
+    "totalContributions": 11888,
+    "activeDays": 74
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-11",
-      "count": 88
+      "count": 105
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-20",
-      "count": 0
-    },
     {
       "date": "2025-11-21",
       "count": 0
@@ -1533,6 +1529,10 @@
     },
     {
       "date": "2026-11-20",
+      "count": 17
+    },
+    {
+      "date": "2026-11-21",
       "count": 0
     }
   ],
@@ -1560,7 +1560,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.7
+        "percent": 4.8
       },
       {
         "name": "Other",
@@ -1570,7 +1570,7 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 69.7
+        "percent": 69.8
       },
       {
         "name": "Rust",
@@ -1586,7 +1586,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.2
+        "percent": 4.3
       },
       {
         "name": "PowerShell",
@@ -1728,14 +1728,14 @@
         8,
         7,
         8,
-        7,
-        8,
+        10,
+        13,
         5,
         7,
-        5,
-        1,
+        11,
+        3,
         9,
-        98
+        99
       ],
       [
         212,
