@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-24T04:07:58Z",
+  "generatedAt": "2026-11-25T02:51:31Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10419,
-    "totalContributions": 14118,
-    "activeDays": 153,
+    "commits": 10428,
+    "totalContributions": 14155,
+    "activeDays": 155,
     "repositoriesTouched": 28,
-    "additions": 2277789,
-    "deletions": 507773
+    "additions": 2290507,
+    "deletions": 510255
   },
   "last90Days": {
-    "commits": 9576,
-    "totalContributions": 12430,
-    "activeDays": 76
+    "commits": 9573,
+    "totalContributions": 12356,
+    "activeDays": 77
   },
   "monthly": [
     {
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-11",
-      "count": 221
+      "count": 258
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-24",
-      "count": 0
-    },
     {
       "date": "2025-11-25",
       "count": 0
@@ -1481,7 +1477,7 @@
     },
     {
       "date": "2026-11-11",
-      "count": 9
+      "count": 15
     },
     {
       "date": "2026-11-12",
@@ -1501,11 +1497,11 @@
     },
     {
       "date": "2026-11-16",
-      "count": 0
+      "count": 8
     },
     {
       "date": "2026-11-17",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-11-18",
@@ -1533,14 +1529,18 @@
     },
     {
       "date": "2026-11-24",
-      "count": 7
+      "count": 27
+    },
+    {
+      "date": "2026-11-25",
+      "count": 0
     }
   ],
   "languages": {
     "allTime": [
       {
         "name": "Go",
-        "percent": 62
+        "percent": 62.1
       },
       {
         "name": "Rust",
@@ -1548,7 +1548,7 @@
       },
       {
         "name": "TypeScript",
-        "percent": 7.6
+        "percent": 7.5
       },
       {
         "name": "Python",
@@ -1646,12 +1646,12 @@
         110,
         54,
         53,
-        64,
+        65,
         54,
-        41,
-        57,
-        64,
-        34,
+        43,
+        59,
+        67,
+        35,
         34,
         28,
         28,
