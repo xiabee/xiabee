@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-25T02:51:31Z",
+  "generatedAt": "2026-11-26T01:59:26Z",
   "timezone": "Asia/Shanghai",
   "scope": "public+private",
   "user": "xiabee",
   "overview": {
-    "commits": 10428,
-    "totalContributions": 14155,
-    "activeDays": 155,
+    "commits": 10442,
+    "totalContributions": 14169,
+    "activeDays": 156,
     "repositoriesTouched": 28,
-    "additions": 2290507,
-    "deletions": 510255
+    "additions": 2296093,
+    "deletions": 511582
   },
   "last90Days": {
     "commits": 9573,
-    "totalContributions": 12356,
+    "totalContributions": 12197,
     "activeDays": 77
   },
   "monthly": [
@@ -67,14 +67,10 @@
     },
     {
       "month": "2026-11",
-      "count": 258
+      "count": 272
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-25",
-      "count": 0
-    },
     {
       "date": "2025-11-26",
       "count": 0
@@ -1533,6 +1529,10 @@
     },
     {
       "date": "2026-11-25",
+      "count": 14
+    },
+    {
+      "date": "2026-11-26",
       "count": 0
     }
   ],
@@ -1540,11 +1540,11 @@
     "allTime": [
       {
         "name": "Go",
-        "percent": 62.1
+        "percent": 62.2
       },
       {
         "name": "Rust",
-        "percent": 8.3
+        "percent": 8.2
       },
       {
         "name": "TypeScript",
@@ -1556,11 +1556,11 @@
       },
       {
         "name": "Shell",
-        "percent": 6.2
+        "percent": 6.1
       },
       {
         "name": "JavaScript",
-        "percent": 5.3
+        "percent": 5.4
       },
       {
         "name": "Other",
@@ -1570,11 +1570,11 @@
     "recent": [
       {
         "name": "Go",
-        "percent": 70.1
+        "percent": 70
       },
       {
         "name": "Rust",
-        "percent": 9.5
+        "percent": 9.6
       },
       {
         "name": "Shell",
@@ -1586,7 +1586,7 @@
       },
       {
         "name": "JavaScript",
-        "percent": 4.7
+        "percent": 4.8
       },
       {
         "name": "PowerShell",
@@ -1671,13 +1671,13 @@
         28,
         54,
         86,
-        70,
-        46,
+        72,
+        49,
+        36,
         33,
-        31,
         45,
-        48,
-        35,
+        51,
+        36,
         32,
         29,
         9,
